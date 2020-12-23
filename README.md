@@ -1,2 +1,2 @@
-# Plinko
-This game is a replica of the plinko game created by me!
+# p5.play-boilerplate
+Boiler plate for p5.play
